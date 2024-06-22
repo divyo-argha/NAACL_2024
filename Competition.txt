@@ -1,0 +1,3 @@
+Call for papers - https://clinical-nlp.github.io/2024/call-for-papers.html
+Text to Sql Github - https://github.com/glee4810/ehrsql-2024?tab=readme-ov-file
+Codabench - https://www.codabench.org/competitions/1889/#/pages-tab
